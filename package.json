@@ -1,0 +1,17 @@
+{
+  "name": "consensus",
+  "version": "1.0.0",
+  "description": "An app to gather ratings from a group",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Brent Brightling",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pg": "^7.4.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
